@@ -1,5 +1,4 @@
 import React from 'react';
-import data from '../MovieData.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Simple page introducing podcast

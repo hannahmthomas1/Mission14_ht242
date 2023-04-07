@@ -32,7 +32,7 @@ function Navigation() {
           <div className="col-1">
             <br />
             <a
-              href="/movies"
+              href="/movielist"
               className="text-muted text-decoration-none link-dark align-middle"
             >
               Collection
